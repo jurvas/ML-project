@@ -1,0 +1,6 @@
+Best validation: 0.5970149040222168
+Best test: 0.6351351141929626
+Best epochs: 10
+Best dropout: 0.5
+Best layers: 2
+Best alpha: 0.001
